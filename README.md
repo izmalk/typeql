@@ -28,7 +28,7 @@ TypeQL is the query language of **[TypeDB](https://github.com/vaticle/typedb)**.
 - **Fully variablizable**. Any concept in TypeQL has a type, and so any concept in TypeQL can be variablized in a query – even types! This enables TypeQL to express powerful [parametric](https://typedb.com/features#polymorphic-queries) database operations.
 - **Built for consistency**. TypeQL patterns are underpinned by a powerful type system that ensure safety and consistency of database applications.
 
-For a quick overview of the range of statements that are available in TypeQL check out our [TypeQL in 20 queries guide](https://typedb.com/docs/).
+For a quick overview of the range of statements that are available in TypeQL check out [TypeQL in 20 queries](https://typedb.com/docs/).
 
 
 ## A polymorphic query language
