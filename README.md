@@ -1,4 +1,4 @@
-[![TypeQL](./banner.png)](https://typedb.com/docs/typeql/2.x/overview)
+[![TypeQL](./assets/banner.png)](https://typedb.com/docs/typeql/2.x/overview)
 
 <div align="center">
   <a href="https://factory.vaticle.com/vaticle/typeql">
@@ -28,7 +28,7 @@ TypeQL is the query language of **[TypeDB](https://github.com/vaticle/typedb)**.
 - **Fully variablizable**. Any concept in TypeQL has a type, and so any concept in TypeQL can be variablized in a query – even types! This enables TypeQL to express powerful [parametric](https://typedb.com/features#polymorphic-queries) database operations.
 - **Built for consistency**. TypeQL patterns are underpinned by a powerful type system that ensure safety and consistency of database applications.
 
-For a quick overview of the range of statements that are available in TypeQL check out [TypeQL in 20 queries](https://typedb.com/docs/).
+For a quick overview of the range of statements that are available in TypeQL check out the [TypeQL Docs](https://typedb.com/docs/).
 
 
 ## A polymorphic query language
@@ -71,7 +71,7 @@ request sub relation,
 
 Use subtyping to query a common supertype and automatically retrieve matching data. Variablize queries to return types, roles, and data. New types added to the schema are automatically included in the results of pre-existing queries against their supertype, so no refactoring is necessary.
 
-```
+```php
 match $user isa user,
     has full-name $name,
     has email $email;
@@ -173,9 +173,8 @@ Today TypeDB and TypeQL use
 [pest](https://pest.rs/),
 [SCIP](https://www.scipopt.org),
 [Bazel](https://bazel.build),
-[gRPC](https://grpc.io),
-[ZeroMQ](https://zeromq.org), 
-and [Caffeine](https://github.com/ben-manes/caffeine). 
+[gRPC](https://grpc.io), and
+[ZeroMQ](https://zeromq.org). 
 
 Thank you!
 
