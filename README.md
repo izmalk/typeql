@@ -28,7 +28,11 @@ TypeQL is the query language of **[TypeDB](https://github.com/vaticle/typedb)**.
 - **Fully variablizable**. Any concept in TypeQL has a type, and so any concept in TypeQL can be variablized in a query – even types! This enables TypeQL to express powerful [parametric](https://typedb.com/features#polymorphic-queries) database operations.
 - **Built for consistency**. TypeQL patterns are underpinned by a powerful type system that ensure safety and consistency of database applications.
 
-For a quick overview of the range of statements that are available in TypeQL check out the [TypeQL Docs](https://typedb.com/docs/).
+For an overview of the range of statements that are available in TypeQL check out the [TypeQL Docs](https://typedb.com/docs/typeql/2.x/overview). If you are at the beginning of your journey with TypeDB and TypeQL, you can also explore the following resources:
+
+* Overview of TypeDB's [features](https://typedb.com/features)
+* In-depth dive into TypeDB's [philosophy](https://typedb.com/philosophy)
+* Our [TypeDB quickstart](https://typedb.com/docs/typedb/2.x/quickstart-guide)
 
 
 ## A polymorphic query language
@@ -150,20 +154,11 @@ $team has name "Engineering";
 
 ## Resources
 
-### Developer resources
-
 - Documentation: https://typedb.com/docs
 - Discussion Forum: https://forum.typedb.com/
 - Discord Chat Server: https://typedb.com/discord
 - Community Projects: https://github.com/typedb-osi
 
-### Useful links
-
-If you want to begin your journey with TypeDB, you can explore the following resources:
-
-* More on TypeDB's [features](https://typedb.com/features)
-* In-depth dive into TypeDB's [philosophy](https://typedb.com/philosophy)
-* Our [TypeDB quickstart](https://typedb.com/docs/typedb/2.x/quickstart-guide)
 
 ## Contributions
 
