@@ -1,21 +1,11 @@
 [![TypeQL](./assets/banner.png)](https://typedb.com/docs/typeql/2.x/overview)
 
 <div align="center">
-  <a href="https://factory.vaticle.com/vaticle/typeql">
-    <img alt="Factory" src="https://factory.vaticle.com/api/status/vaticle/typeql/badge.svg" />
-  </a>
-  <a href="https://factory.vaticle.com/vaticle/typeql">
-    <img alt="GitHub release" src="https://img.shields.io/github/release/vaticle/typeql.svg">
-  </a>
-  <a href="https://vaticle.com/discord">
-    <img alt="Discord" src="https://img.shields.io/discord/665254494820368395?color=7389D8&label=chat&logo=discord&logoColor=ffffff" />
-  </a>
-  <a href="https://forum.vaticle.com">
-    <img alt="Discussion Forum" src="https://img.shields.io/discourse/https/forum.vaticle.com/topics.svg" />
-  </a>
-  <a href="https://stackoverflow.com/questions/tagged/typeql">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/stackoverflow-typeql-3dce8c.svg">
-  </a>
+  <a href="https://factory.vaticle.com/vaticle/typeql"><img alt="Factory" src="https://factory.vaticle.com/api/status/vaticle/typeql/badge.svg" /></a>&nbsp;
+  <a href="https://factory.vaticle.com/vaticle/typeql"><img alt="GitHub release" src="https://img.shields.io/github/release/vaticle/typeql.svg"></a>&nbsp;
+  <a href="https://vaticle.com/discord"><img alt="Discord" src="https://img.shields.io/discord/665254494820368395?color=7389D8&label=chat&logo=discord&logoColor=ffffff" /></a>&nbsp;
+  <a href="https://forum.vaticle.com"><img alt="Discussion Forum" src="https://img.shields.io/discourse/https/forum.vaticle.com/topics.svg" /></a>&nbsp;
+  <a href="https://stackoverflow.com/questions/tagged/typeql"><img alt="Stack Overflow" src="https://img.shields.io/badge/stackoverflow-typeql-3dce8c.svg"></a>
 </div>
 
 
